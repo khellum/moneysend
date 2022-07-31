@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moneysend/static/css/main.073c9b0a.css",
+    "main.js": "/moneysend/static/js/main.5fb1a117.js",
+    "static/js/787.e5f084f8.chunk.js": "/moneysend/static/js/787.e5f084f8.chunk.js",
+    "static/media/Logo1.png": "/moneysend/static/media/Logo1.aca57acad362aeb28ce6.png",
+    "index.html": "/moneysend/index.html",
+    "main.073c9b0a.css.map": "/moneysend/static/css/main.073c9b0a.css.map",
+    "main.5fb1a117.js.map": "/moneysend/static/js/main.5fb1a117.js.map",
+    "787.e5f084f8.chunk.js.map": "/moneysend/static/js/787.e5f084f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5fb1a117.js"
+  ]
+}
